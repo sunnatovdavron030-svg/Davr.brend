@@ -1,4 +1,4 @@
-# Davr.brend<!DOCTYPE html>
+# <!DOCTYPE html>
 <html lang="uz">
 <head>
 <meta charset="UTF-8">
